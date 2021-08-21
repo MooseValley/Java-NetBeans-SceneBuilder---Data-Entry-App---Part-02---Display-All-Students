@@ -1,6 +1,8 @@
-# Java, NetBeans, SceneBuilder - Data Entry App - Part 02 - Display All Students
+# Java, NetBeans, SceneBuilder - Data Entry App
+## Part 02 - Display All Students
 
-Here is the Java, NetBeans, SceneBuilder source code for my video tutorial:
+Here is the Java, NetBeans, SceneBuilder source code for
+**Part 02** of my video tutorial series:
 * YouTube: https://youtu.be/NPT_6mv0CdM
 * LBRY / Odysee: TBA
 
